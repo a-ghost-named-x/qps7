@@ -26,4 +26,9 @@ Usage
 
 To use this script, simply run it and enter the target IP or URL into the entry field. Then, click the "Scan" button to start the scan. The results will be displayed in the text widget. To clear the results, click the "Clear Results" button.
 
+
+Terminal Based Version:
+
+2/24/23: The original script used the tkinter module to create a graphical user interface, which has been removed and replaced with command-line input prompts. The resulting script is optimized for use in an editor like Visual Studio Code. Both versions will stay available. 
+
 Author: a-ghost-named-x
