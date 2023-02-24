@@ -1,6 +1,6 @@
 qps7
 
-This is a simple port scanner script that scans specified ports on a specified host and displays the open ports.
+This is a simple port scanner script that scans specified ports on a host and displays the open ports.
 
 
 How it works
