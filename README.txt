@@ -25,3 +25,5 @@ Usage
 
 
 To use this script, simply run it and enter the target IP or URL into the entry field. Then, click the "Scan" button to start the scan. The results will be displayed in the text widget. To clear the results, click the "Clear Results" button.
+
+Author: GanndyD404
