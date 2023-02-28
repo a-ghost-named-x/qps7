@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Author: [a-ghost-named-x]
 # Date: [02/23/23]
 
