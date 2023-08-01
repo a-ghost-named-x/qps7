@@ -44,7 +44,7 @@ def threader(queue, host, open_ports):
             port = queue.get(timeout=1)
             port_scan(port, host, open_ports)
             queue.task_done()
-            time.sleep(0.1)  # add a delay between scans
+            time.sleep(0.2)  # add a delay between scans
         except:
             pass
 
